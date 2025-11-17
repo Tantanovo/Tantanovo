@@ -1,7 +1,12 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋welcome+to+Tan's+homepage!&center=true&width=400&height=40&fontSize=24&duration=3000&color=ff0000&weight=bold)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Tantanovo.Tantanovo&left_color=blue&right_color=orange&title=follower)
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋welcome+to+Tan's+homepage!&center=true&width=400&height=40&fontSize=24&duration=3000&color=aa0a00)
+<a title="github" target="_blank" href="https://github.com/Tantanovo"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DTantanovo&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
+<a href="https://hits.sh/github.com/Tantanovo/"><img alt="Hits" src="https://hits.sh/github.com/Tantanovo.svg"/></a>
+[<img src="https://img.shields.io/badge/Tan's%20Homepage-purple"/>](https://github.com/Tantanovo)
+[<img src="https://img.shields.io/badge/Tan's%20Blog-purple"/>](https://github.com/Tantanovo) 
+[<img src="https://img.shields.io/badge/Tan's%20Resume-purple"/>](https://github.com/Tantanovo)
 ## I'm a backend engineer.studying at Xi'an University of Finance and Economics
 ## I'm making great efforts to learn...  Welcome to communicate with me!
+## contact me!email:1348215719@qq.com
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tantanovo&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)
 
