@@ -1,4 +1,5 @@
-# Hi👋welcome to Tan's homepage!
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋welcome+to+Tan's+homepage!&center=true&width=400&height=40&fontSize=24&duration=3000&color=ff0000&weight=bold)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Tantanovo.Tantanovo&left_color=blue&right_color=orange&title=follower)
 ## I'm a backend engineer.studying at Xi'an University of Finance and Economics
 ## I'm making great efforts to learn...  Welcome to communicate with me!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tantanovo&show_icons=true&theme=radical)
