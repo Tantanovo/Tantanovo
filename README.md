@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi welcome to Tan's homepage! 👋
+## I'm a backend engineer
+## studying at Xi'an University of Finance and Economics
+## I'm making great efforts to learn...  Welcome to communicate with me!
 <!--
 **Tantanovo/Tantanovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
