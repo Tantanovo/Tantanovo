@@ -1,3 +1,6 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tantanovo&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)
+![Custom Stats](https://github-readme-stats.vercel.app/api?username=yourname&hide=issues&bg_color=30,e96443,904e95&title_color=fff)
 ## Hi welcome to Tan's homepage! 👋
 ## I'm a backend engineer
 ## studying at Xi'an University of Finance and Economics
