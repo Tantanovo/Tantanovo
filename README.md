@@ -4,8 +4,8 @@
 [<img src="https://img.shields.io/badge/Tan's%20Homepage-purple"/>](https://github.com/Tantanovo)
 [<img src="https://img.shields.io/badge/Tan's%20Blog-purple"/>](https://github.com/Tantanovo) 
 [<img src="https://img.shields.io/badge/Tan's%20Resume-purple"/>](https://github.com/Tantanovo)
-## I'm a backend engineer.studying at Xi'an University 
-## I'm making great efforts to learn...  Welcome to communicate with me!
+## I'm a backend engineer.Studying at Xi'an University 
+## Making great efforts to learn...  
 ## contact me!email:1348215719@qq.com
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tantanovo&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)
