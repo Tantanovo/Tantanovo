@@ -3,24 +3,46 @@
 <a href="https://hits.sh/github.com/Tantanovo/"><img alt="Hits" src="https://hits.sh/github.com/Tantanovo.svg"/></a>
 [<img src="https://img.shields.io/badge/Tan's%20Homepage-purple"/>](https://github.com/Tantanovo)
 [<img src="https://img.shields.io/badge/Tan's%20Blog-purple"/>](https://github.com/Tantanovo) 
-[<img src="https://img.shields.io/badge/Tan's%20Resume-purple"/>](https://github.com/Tantanovo)
-## I'm a backend engineer.Studying at Xi'an University 
-## Making great efforts to learn...  
-## contact me!email:1348215719@qq.com
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tantanovo&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)
 
+🎓 **computer Student** | 💻 **Tech Enthusiast**  
+📍 Xi'an University of Finance and Economics  
+  
+
+## 📊 GitHub 统计
+<div>
+  <!-- 贡献图 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tantanovo&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="97%">
+</div>
+
+## 📞 联系信息
+邮箱 ：1348215719@qq.com      
+  <!-- 
+## 🛠️ 技术栈
+### 核心技术
+- 编程语言：C++ (主攻)、Python、JavaScript/TypeScript
+- 后端框架：【如：Boost、muduo、FastAPI等】
+- 操作系统：Linux (CentOS/Ubuntu)、Shell脚本
+- 数据库：【如：MySQL、Redis等】
+- 工具/其他：Git、CMake、异步日志框架、高并发编程
+
+### 熟悉领域
+- 高性能异步系统开发
+- Linux下网络编程/多线程编程
+- 日志框架设计与实现
+- GitHub Pages/静态博客搭建
+
+## 📝 最近活动（可选）
+<!-- 自动更新最近提交记录 -->
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=wangt610&theme=radical&hide_border=true" alt="Streak Stats" width="97%">-->
 <!--
-**Tantanovo/Tantanovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## ✨ 开源项目（可选）
+| 项目名称 | 简介 | 技术栈 |
+|----------|------|--------|
+| 【项目1名称】 | 【如：高性能异步日志框架，支持批量刷盘、日志分级】 | C++、Linux多线程、CMake |
+| 【项目2名称】 | 【如：GitHub Pages博客模板，适配个人技术博客】 | Markdown、HTML/CSS、JavaScript |
+<!--
+<div align="center">
+  <br>
+  <p>⭐️ 喜欢我的项目？欢迎Star/Follow支持 ⭐️</p>
+</div>
 -->
