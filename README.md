@@ -5,8 +5,8 @@
 [<img src="https://img.shields.io/badge/Tan's%20Blog-purple"/>](https://github.com/Tantanovo) 
 
 🎓 **computer Student** | 💻 **Tech Enthusiast**  
-📍 Xi'an University of Finance and Economics  
-  
+
+  📍 Xi'an University of Finance and Economics  
 
 ## 📊 GitHub 统计
 <div>
